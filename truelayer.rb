@@ -1,8 +1,8 @@
 class Truelayer < Formula
   desc "Truelayer CLI"
   homepage "https://github.com/tl-ozum-safaoglu/truelayer-cli"
-  url "https://github.com/tl-ozum-safaoglu/truelayer-cli/releases/download/v0.0.1/truelayer.tar.gz"
-  sha256 "8c1b2e0f38cf541ec317910d8d370a5304af63e986737ccbdee1534697080c74"
+  url "https://github.com/tl-ozum-safaoglu/truelayer-cli/releases/download/v0.0.2/truelayer.tar.gz"
+  sha256 "7f64bc502d0521ec966bd6b08fcdbf505a4f491e3db6507105e94e9ebca9dbfe"
   version "0.0.1"
 
   def install
